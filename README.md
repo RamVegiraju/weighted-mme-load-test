@@ -1,8 +1,8 @@
 # weighted-mme-load-test
 Weighted load traffic distribution across models behind an XGBoost MME Endpoint with two models.
 
-## Load Testing Blog Guide
-Coming...
+## Load Testing Guide
+[Load Testing SageMaker Multi-Model Endpoints](Load Testing SageMaker Multi-Model Endpoints)
 
 
 ## Metrics
